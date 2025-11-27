@@ -1,4 +1,4 @@
-/* SoulMV Multi-Abas - versão GitHub
+/* SoulMV Multi-Abas - versão GitHuB
    Barra flutuante: CONFIGURAÇÕES + seletor CO/NIR/MATE + ABRIR ABAS + SALVAR + X
 */
 
